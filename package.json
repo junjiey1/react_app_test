@@ -9,7 +9,9 @@
     "async": "~0.2.8",
     "create-react-app": "^1.5.2",
     "express": "~3.2.4",
-    "socket.io": "~0.9.14"
+    "prop-types": "^15.6.1",
+    "socket.io": "~0.9.14",
+    "validator": "^9.4.1"
   },
   "license": "MIT",
   "devDependencies": {
